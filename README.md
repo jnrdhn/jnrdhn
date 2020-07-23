@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on UI/UX
 - 🤔 I’m looking for help with building a website
-- 💬 Ask me about Finance
-- 📫 How to reach me: ...
+- 💬 Ask me about CP, Finance
+- 📫 How to reach me: @j_nrdhn(instagram)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I skate.
--->
