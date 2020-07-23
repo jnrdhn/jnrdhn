@@ -1,8 +1,6 @@
 ### Hi there, I'm Janardhan Edara 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on UI/UX
