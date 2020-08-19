@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on UI/UX
 - 🤔 I’m looking for help with building a website
 - 💬 Ask me about CP, Finance
-- 📫 How to reach me: @j_nrdhn(instagram)
+- 📫 How to reach me: nick149e@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I skate.
