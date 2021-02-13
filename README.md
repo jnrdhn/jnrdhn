@@ -1,11 +1,8 @@
 ### Hi there, I'm Janardhan Edara 👋
 
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate on UI/UX
-- 🤔 I’m looking for help with building a website
-- 💬 Ask me about CP, Finance
-- 📫 How to reach me: nick149e@gmail.com
+- 🔭 working on AI based management for retail distribution chain
+- 🌱 learning Machine Learning
+- 👯 collaborate on UI/UX
+- 📫 How to reach me: edarajanardhan@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I skate.
