@@ -1,4 +1,4 @@
-[![Header](./banner.png)](https://www.linkedin.com/in/janardhan-edara)
+[![Header](./image.png)](https://www.linkedin.com/in/janardhan-edara)
 
 # Hello, World! I'm Janardhan 👋
 
